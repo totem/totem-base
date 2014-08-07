@@ -18,8 +18,12 @@ Following tags are available
 - trusty-1.0  (Versioned)
 - trusty  (Latest trusty image tag)
 
+For most of the applications, the trusty tag should be sufficent.  Only under certain scenarios, where you are looking for frozen images, you may use versioned tags.
+
 ## Build
-To build this image use command:  
+The latest image is automatically built by docker hub.
+
+To build this image manually use command:  
 ```
 sudo docker build --rm -t totem/totem-base:tag_name .
 ```

@@ -1,4 +1,4 @@
-totem-base
+totem-base [![](https://badge.imagelayers.io/totem/totem-base.svg)](https://imagelayers.io/?images=totem/totem-base:latest 'Get your own badge on imagelayers.io')
 ==========
 
 This builds the base image used by containers used in Totem.

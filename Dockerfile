@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM busybox:ubuntu-14.04
 
 ADD etc/apt/sources.list /etc/apt/sources.list
 

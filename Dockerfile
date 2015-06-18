@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM debian:jessie
 
 ADD etc/apt/sources.list /etc/apt/sources.list
 
